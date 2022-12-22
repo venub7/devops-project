@@ -55,7 +55,6 @@
         <option value="Gwyneth">Gwyneth [Welsh]</option>
         <option value>
         <option value2>
-        <option value2>
 
         
       </select>
